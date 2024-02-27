@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skratchNeurons
+- 👋 Hi, I’m Nicholas Burton (@skratchNeurons), a PhD student @ The University of Newcastle, Australia
 - 👀 I’m interested in the brain, decision-making, learning under uncertainty, and computational psychiatry
 - 🌱 I’m currently learning computational modelling techniques including model-based (i.e.,hierarhical inference) and model-free (i.e., reinforcement learning) approaches
 - 💞️ I’m looking to collaborate on investigating impaired decision-making processes in preclinical models of neuropsychiatric disorders 
